@@ -8,7 +8,7 @@ A professional invoice management application for creating, previewing, and shar
 
 Try the web version instantly in your browser:
 
-**👉 [https://invoicepro.vercel.app](https://invoicepro.vercel.app)**
+**👉 [https://invoice-index.vercel.app](https://invoicepro.vercel.app)**
 
 > _Replace the URL above with your actual Vercel deployment link after deploying._
 
